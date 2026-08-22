@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f5d6d,50:1a9fb5,100:2dd4bf&height=200&section=header&text=Sudeep%20Pandey&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Senior%20Data%20%26%20AI%20Engineer%20%7C%20Azure%20%7C%20Databricks%20%7C%20PySpark&descSize=18&descAlignY=55&animation=twinkling" width="100%" alt="Sudeep Pandey Banner"/>
+<h1>👋 Hi, I'm Sudeep Pandey</h1>
 
-<img src="https://raw.githubusercontent.com/sudeeppandey123/sudeeppandey123/main/avatar.svg" width="150" style="border-radius:50%; border: 4px solid #0f5d6d;" alt="Sudeep Pandey"/>
-
-<h1>Sudeep Pandey</h1>
-
-<p><strong>Senior Data & AI Engineer</strong> · Azure Data Engineer · Full Stack Engineer</p>
+<h3>Senior Data & AI Engineer | Azure | Databricks | PySpark | Full Stack</h3>
 
 <p><em>Full Stack Development → Data Engineering → Cloud Data Engineering → Data & AI Engineering</em></p>
 
@@ -16,6 +12,8 @@
   <a href="mailto:sudeep.pandey.de@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://sudeep-pandey.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0f5d6d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
+
+<img src="https://raw.githubusercontent.com/sudeeppandey123/sudeeppandey123/main/avatar.svg" width="180" style="border-radius:50%; border: 4px solid #0f5d6d;" alt="Sudeep Pandey"/>
 
 </div>
 
@@ -53,12 +51,6 @@ class SudeepPandey:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeeppandey123&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sudeeppandey123">
-    <img src="https://github-profile-trophy.vercel.app/?username=sudeeppandey123&theme=radical&no-frame=true&no-bg=false&column=7" alt="GitHub Trophies"/>
-  </a>
 </p>
 
 ---
