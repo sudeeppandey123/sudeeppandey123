@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f5d6d"/>
+      <stop offset="100%" style="stop-color:#1a9fb5"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2dd4bf"/>
+      <stop offset="100%" style="stop-color:#14b8a6"/>
+    </linearGradient>
+    <clipPath id="circle">
+      <circle cx="200" cy="200" r="190"/>
+    </clipPath>
+  </defs>
+  
+  <!-- Background -->
+  <circle cx="200" cy="200" r="195" fill="#0a1628"/>
+  <circle cx="200" cy="200" r="190" fill="url(#bg)"/>
+  
+  <!-- Grid pattern -->
+  <g clip-path="url(#circle)" opacity="0.1">
+    <line x1="0" y1="100" x2="400" y2="100" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="200" x2="400" y2="200" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="300" x2="400" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="100" y1="0" x2="100" y2="400" stroke="white" stroke-width="1"/>
+    <line x1="200" y1="0" x2="200" y2="400" stroke="white" stroke-width="1"/>
+    <line x1="300" y1="0" x2="300" y2="400" stroke="white" stroke-width="1"/>
+  </g>
+  
+  <!-- Data flow lines -->
+  <g clip-path="url(#circle)">
+    <path d="M0 150 Q100 100 200 150 Q300 200 400 150" stroke="white" stroke-width="2" fill="none" opacity="0.2"/>
+    <path d="M0 200 Q100 150 200 200 Q300 250 400 200" stroke="white" stroke-width="2" fill="none" opacity="0.15"/>
+    <path d="M0 250 Q100 200 200 250 Q300 300 400 250" stroke="white" stroke-width="2" fill="none" opacity="0.1"/>
+  </g>
+  
+  <!-- Hexagon (data node) -->
+  <g clip-path="url(#circle)">
+    <polygon points="200,80 260,115 260,185 200,220 140,185 140,115" fill="white" opacity="0.95"/>
+    
+    <!-- Inner data bars -->
+    <rect x="165" y="120" width="70" height="12" rx="3" fill="url(#bg)" opacity="0.8"/>
+    <rect x="165" y="140" width="70" height="12" rx="3" fill="url(#bg)" opacity="0.6"/>
+    <rect x="165" y="160" width="70" height="12" rx="3" fill="url(#bg)" opacity="0.4"/>
+    <rect x="165" y="180" width="70" height="12" rx="3" fill="url(#bg)" opacity="0.3"/>
+  </g>
+  
+  <!-- Connection nodes -->
+  <circle cx="100" cy="120" r="8" fill="white" opacity="0.8"/>
+  <circle cx="300" cy="120" r="8" fill="white" opacity="0.8"/>
+  <circle cx="100" cy="280" r="8" fill="white" opacity="0.8"/>
+  <circle cx="300" cy="280" r="8" fill="white" opacity="0.8"/>
+  
+  <!-- Connection lines -->
+  <line x1="140" y1="115" x2="108" y2="120" stroke="white" stroke-width="2" opacity="0.5"/>
+  <line x1="260" y1="115" x2="292" y2="120" stroke="white" stroke-width="2" opacity="0.5"/>
+  <line x1="140" y1="185" x2="108" y2="280" stroke="white" stroke-width="2" opacity="0.5"/>
+  <line x1="260" y1="185" x2="292" y2="280" stroke="white" stroke-width="2" opacity="0.5"/>
+  
+  <!-- Name -->
+  <text x="200" y="290" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="32" font-weight="800" fill="white" letter-spacing="2">SP</text>
+  
+  <!-- Subtitle -->
+  <text x="200" y="315" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14" font-weight="400" fill="white" opacity="0.8" letter-spacing="3">DATA ENGINEER</text>
+  
+  <!-- Accent ring -->
+  <circle cx="200" cy="200" r="190" stroke="url(#accent)" stroke-width="3" fill="none" opacity="0.6"/>
+</svg>
