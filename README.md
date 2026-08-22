@@ -1,27 +1,21 @@
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/sudeeppandey123/sudeeppandey123/main/banner.svg" width="100%" alt="Sudeep Pandey"/>
-
 <img src="https://raw.githubusercontent.com/sudeeppandey123/sudeeppandey123/main/avatar.svg" width="150" style="border-radius:50%; border: 3px solid #2D5F5F; margin-top: -75px;" alt="Sudeep Pandey"/>
-
 # Sudeep Pandey
-
 ### Senior Data & AI Engineer · Azure Data Engineer · Full Stack Engineer
-
 <p>
 <a href="https://linkedin.com/in/sudeep-pandey-de"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin" alt="LinkedIn"/></a>
 <a href="https://topmate.io/sudeep_kumar_pandey"><img src="https://img.shields.io/badge/Topmate-FF6B35?style=social&logo=topmate" alt="Topmate"/></a>
 <a href="https://sudeep-pandey.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2D5F5F?style=social&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:sudeep.pandey.de@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=social&logo=gmail" alt="Email"/></a>
 </p>
-
 </div>
 
 ---
 
 ## About
 
-Senior Data & AI Engineer with **4+ years** of experience building production-grade data platforms for banking and financial services across **India, Rwanda, Uganda, Tanzania, and the UK**.
+Senior Data & AI Engineer with **4+ years** of experience building enterprise data platforms, cloud data pipelines, and scalable data processing solutions across multiple international markets.
 
 I specialize in **Azure cloud data engineering** — designing and implementing enterprise data pipelines, lakehouse architectures, and production monitoring systems using Databricks, PySpark, and the modern Azure data stack.
 
@@ -137,24 +131,24 @@ REST APIs                  Data Processing            Synapse · Monitoring     
 
 **Coforge Limited**
 Senior Data & AI Engineer
-*Mar 2026 – Present · Santander UK*
+*Mar 2026 – Present*
 
-- Production data workflows for enterprise banking
-- SQL Server audit & SIEM log pipelines
+- Enterprise banking data engineering workflows
 - Azure Data Factory orchestration
-- Databricks & PySpark workloads
+- Databricks and PySpark data processing
+- Data monitoring and pipeline optimization
 
 </td>
 <td>
 
 **Infosys Limited**
 Senior Systems Engineer
-*Jul 2022 – Dec 2025 · I&M Bank*
+*Jul 2022 – Dec 2025*
 
-- 10M+ daily banking records across 3 countries
-- 15+ REST API ingestion pipelines
-- 30% faster Spark workloads
-- Medallion Lakehouse architecture
+- Large-scale data processing across multiple countries
+- REST API-based data ingestion pipelines
+- Spark/PySpark optimization
+- Lakehouse and ETL/ELT engineering
 
 </td>
 </tr>
@@ -209,13 +203,5 @@ Modern jewelry e-commerce platform with responsive design and seamless user expe
 <a href="https://topmate.io/sudeep_kumar_pandey"><img src="https://img.shields.io/badge/Topmate-FF6B35?style=for-the-badge&logo=topmate&logoColor=white" alt="Topmate"/></a>
 <a href="https://sudeep-pandey.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2D5F5F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:sudeep.pandey.de@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sudeeppandey123&color=2D5F5F&style=flat-square&label=Profile+Views)
 
 </div>
