@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sudeeppandey123/sudeeppandey123/main/banner.svg" width="100%" alt="Sudeep Pandey Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f5d6d,50:1a9fb5,100:2dd4bf&height=200&section=header&text=Sudeep%20Pandey&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Senior%20Data%20%26%20AI%20Engineer%20%7C%20Azure%20%7C%20Databricks%20%7C%20PySpark&descSize=18&descAlignY=55&animation=twinkling" width="100%" alt="Sudeep Pandey Banner"/>
 
 <img src="https://raw.githubusercontent.com/sudeeppandey123/sudeeppandey123/main/avatar.svg" width="150" style="border-radius:50%; border: 4px solid #0f5d6d;" alt="Sudeep Pandey"/>
 
