@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/sudeeppandey123/sudeeppandey123/main/banner.svg" width="100%" alt="Sudeep Pandey"/>
 
-<img src="https://raw.githubusercontent.com/sudeeppandey123/sudeeppandey123/main/avatar.svg" width="150" style="border-radius:50%; border: 3px solid #0f5d6d; margin-top: -75px;" alt="Sudeep Pandey"/>
+<img src="https://raw.githubusercontent.com/sudeeppandey123/sudeeppandey123/main/avatar.svg" width="150" style="border-radius:50%; border: 3px solid #2D5F5F; margin-top: -75px;" alt="Sudeep Pandey"/>
 
 # Sudeep Pandey
 
@@ -11,7 +11,7 @@
 <p>
 <a href="https://linkedin.com/in/sudeep-pandey-de"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin" alt="LinkedIn"/></a>
 <a href="https://topmate.io/sudeep_kumar_pandey"><img src="https://img.shields.io/badge/Topmate-FF6B35?style=social&logo=topmate" alt="Topmate"/></a>
-<a href="https://sudeep-pandey.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f5d6d?style=social&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://sudeep-pandey.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2D5F5F?style=social&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:sudeep.pandey.de@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=social&logo=gmail" alt="Email"/></a>
 </p>
 
@@ -195,7 +195,7 @@ Modern jewelry e-commerce platform with responsive design and seamless user expe
 
 <p align="center">
 <a href="https://github.com/sudeeppandey123">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudeeppandey123&theme=white&hide_border=true&color=0f5d6d&line=0f5d6d&point=0f5d6d" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudeeppandey123&bg_color=B5E0E8&color=2D5F5F&line=2D5F5F&point=2D5F5F&hide_border=true" alt="Activity Graph"/>
 </a>
 </p>
 
@@ -207,7 +207,7 @@ Modern jewelry e-commerce platform with responsive design and seamless user expe
 
 <a href="https://linkedin.com/in/sudeep-pandey-de"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://topmate.io/sudeep_kumar_pandey"><img src="https://img.shields.io/badge/Topmate-FF6B35?style=for-the-badge&logo=topmate&logoColor=white" alt="Topmate"/></a>
-<a href="https://sudeep-pandey.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f5d6d?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://sudeep-pandey.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2D5F5F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:sudeep.pandey.de@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
@@ -216,6 +216,6 @@ Modern jewelry e-commerce platform with responsive design and seamless user expe
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sudeeppandey123&color=0f5d6d&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=sudeeppandey123&color=2D5F5F&style=flat-square&label=Profile+Views)
 
 </div>
