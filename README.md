@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sudeeppandey123/sudeeppandey123/main/avatar.svg" width="120" style="border-radius:50%; border: 3px solid #0f5d6d;" alt="Sudeep Pandey"/>
+<img src="https://raw.githubusercontent.com/sudeeppandey123/sudeeppandey123/main/banner.svg" width="100%" alt="Sudeep Pandey"/>
+
+<img src="https://raw.githubusercontent.com/sudeeppandey123/sudeeppandey123/main/avatar.svg" width="150" style="border-radius:50%; border: 3px solid #0f5d6d; margin-top: -75px;" alt="Sudeep Pandey"/>
 
 # Sudeep Pandey
 
